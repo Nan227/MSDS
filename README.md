@@ -1,4 +1,5 @@
 # Rutgers_MSDS
 
-This project I will help my co-worker and my supervisor reach chemical datasheets easiler.
-User can scan barcode my their phone, safety data sheet will display.
+We have to make many copy of Safety Data Sheet files. However, not many workers read it.  This project I will help my co-worker and my supervisor reach chemical datasheets easiler.
+
+Worker can scan barcode from their phone, the safety data sheet will display.
