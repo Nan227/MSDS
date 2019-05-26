@@ -1,6 +1,6 @@
 # Rutgers_MSDS
 
-My supervisor, co-worker, and I have to make many copy of Safety Data Sheet files. After we take 2 days for making many copies, not many people read it.
+My supervisor, co-worker, and I have to make many copy of Safety Data Sheet files. After we take 2 days for making many copies (around 15 files or more than 5000 papers), not many people read it.
 
 This project I will help my co-worker and my supervisor reach chemical datasheets easiler.
 
