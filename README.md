@@ -1,10 +1,7 @@
-# Rutgers_MSDS
+# Rutgers_MSDS_UBHC
 
-My supervisor, co-worker, and I have to make many copy of Safety Data Sheet files. After we take 2 days for making many copies (around 15 files or more than 5000 papers), not many people read it.
-
-This project I will help my co-worker and my supervisor reach chemical datasheets easiler.
-
-All Worker can scan barcode from their phone, the safety data sheet will display.
+There are many Safety Data Sheets (SDSs) (formerly MSDSs or Material Safety Data Sheets) for each hazardous chemical information. 
+Now the SDSs are required to be presented in a consistent user-friendly. This project will help workers find the SDSs easiler than before.
 
 
 
