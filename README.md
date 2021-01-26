@@ -6,5 +6,7 @@ Now the SDSs are required to be presented in a consistent user-friendly. This pr
 
 Display picture of Chemical and like to a data sheet.
 
+It easy to use.
+
 
 
